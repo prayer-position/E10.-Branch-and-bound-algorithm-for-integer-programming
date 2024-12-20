@@ -1,0 +1,1 @@
+For this program, changing the max_days constraint will change the number of days the lab is limited to. The max_days variable is at the end of the program in the (if __name__ = "__main__" :) part of the script
